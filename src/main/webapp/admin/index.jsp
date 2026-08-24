@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" %><h1>Khu vực quản trị</h1><p><a href="../dashboard.jsp">Dashboard</a></p><p><a href="${pageContext.request.contextPath}/admin/users">Quản lý người dùng</a></p>
